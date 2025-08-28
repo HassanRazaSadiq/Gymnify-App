@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683099316891",
+    "project_id": "gymfinity-afccc",
+    "storage_bucket": "gymfinity-afccc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683099316891:android:037ad9a0d07cf22140dc3e",
+        "android_client_info": {
+          "package_name": "com.example.gymapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwqLeIK9IRcy8IP7OJQhs6q1z0HhbssM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
